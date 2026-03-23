@@ -1,0 +1,183 @@
+{
+  "ID": "ee10f220-1bf4-4202-9460-70b10182c91f",
+  "EditorHidden": false,
+  "Locked": false,
+  "Name": "Scene Root",
+  "Opacity": 1.0,
+  "Children": [
+    {
+      "ID": "ab8cc4f3-37ea-4fa7-82ea-698b6743be6e",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,30.0,0.0,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    },
+    {
+      "ID": "61db127f-d5b0-49c9-9487-68dc2d43ade7",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[0.499999974763217,0.8660254183549017,0.0,0.0,-0.8660254183549017,0.499999974763217,0.0,0.0,0.0,0.0,1.0,0.0,14.99999924289651,25.98076255064705,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    },
+    {
+      "ID": "3d277a53-7a71-463e-8c5c-c9eccce2f606",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[-0.5000000504735647,0.8660253746435105,0.0,0.0,-0.8660253746435105,-0.5000000504735647,0.0,0.0,0.0,0.0,1.0,0.0,-15.00000151420694,25.980761239305316,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    },
+    {
+      "ID": "49f10449-b4a1-4fb2-96c0-a5f7974a4677",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[-0.9999999999999962,-8.742278000372475E-08,0.0,0.0,8.742278000372475E-08,-0.9999999999999962,0.0,0.0,0.0,0.0,1.0,0.0,-29.999999999999886,-2.6226834001117425E-06,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    },
+    {
+      "ID": "99b567d2-07de-46ce-9fe6-b7f0117de3fd",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[-0.49999989905286546,-0.8660254620662861,0.0,0.0,0.8660254620662861,-0.49999989905286546,0.0,0.0,0.0,0.0,1.0,0.0,-14.999996971585963,-25.98076386198858,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    },
+    {
+      "ID": "34a7d224-0582-4aa4-be4d-3bea7478e0bb",
+      "Color": "#FE8D86",
+      "Depth": {
+        "Expression": "15"
+      },
+      "EditorHidden": false,
+      "Height": {
+        "Expression": "15"
+      },
+      "Locked": false,
+      "Matrix": "[0.5000001261839087,-0.8660253309321128,0.0,0.0,0.8660253309321128,0.5000001261839087,0.0,0.0,0.0,0.0,1.0,0.0,15.00000378551726,-25.980759927963383,0.0,1.0]",
+      "MeshPath": "31AC6A8865B601A1.3mf",
+      "Name": "Cube",
+      "Opacity": 1.0,
+      "Radius": {
+        "Expression": "3"
+      },
+      "Round": false,
+      "RoundSegments": {
+        "Expression": "9"
+      },
+      "ThumbnailName": "Cube",
+      "TypeName": "CubeObject3D",
+      "Width": {
+        "Expression": "15"
+      },
+      "Children": []
+    }
+  ]
+}
