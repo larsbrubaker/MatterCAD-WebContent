@@ -1,5 +1,7 @@
 # MatterCAD Documentation
 
+![MatterCAD 3D Design Interface](docs/assets/paste-20260317-175249.jpg)
+
 **MatterCAD** is a powerful, intuitive 3D design application built for makers, engineers, and creators. Design parts from scratch using parametric primitives, boolean operations, arrays, and more — then export for 3D printing or CNC machining.
 
 This repository hosts the official MatterCAD documentation, served publicly via [GitHub Pages](https://matterhackers.github.io/MatterCAD_Docs/).
