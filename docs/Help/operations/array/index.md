@@ -19,3 +19,4 @@ Array operations create multiple copies of an object arranged in a pattern. This
 - [Linear Array](linear-array.md) - Duplicate objects along a straight line
 - [Radial Array](radial-array.md) - Duplicate objects in a circular pattern around a center point
 - [Advanced Array](advanced-array.md) - Create complex array patterns with additional control
+- [Select Child](select-child.md) - Dynamically pick one child from a group by index or name
